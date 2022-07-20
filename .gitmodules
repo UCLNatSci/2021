@@ -1,0 +1,6 @@
+[submodule "Mathematics-for-Natural-Sciences"]
+	path = Mathematics-for-Natural-Sciences
+	url = https://github.com/UCLNatSci/Mathematics-for-Natural-Sciences
+[submodule "Electromagnetism-Fluids-and-Waves"]
+	path = Electromagnetism-Fluids-and-Waves
+	url = https://github.com/UCLNatSci/Electromagnetism-Fluids-and-Waves
