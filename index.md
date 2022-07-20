@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Natural Sciences course notes
 
-You can use the [editor on GitHub](https://github.com/UCLNatSci/home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Year 1 modules
 
-### Markdown
+NSCI0005: Mathematics for Natural Sciences A
+* [module description](https://www.ucl.ac.uk/module-catalogue/modules/mathematics-for-natural-sciences-a-NSCI0005)
+* [webnotes](NOLINK)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+NSCI0006: Mathematics for Natural Sciences B
+* [Module description](https://www.ucl.ac.uk/module-catalogue/modules/mathematics-for-natural-sciences-b-NSCI0006)
+* [Webnotes](NOLINK)
 
-```markdown
-Syntax highlighted code block
+NSCI0027: Linear Algebra and Vector Calculus
+* [Module description](https://www.ucl.ac.uk/module-catalogue/modules/linear-algebra-and-vector-calculus-NSCI0027)
+* [Webnotes](NOLINK)
 
-# Header 1
-## Header 2
-### Header 3
+NSCI0018: Electromagnetism, Fluids and Waves
+* [Module description](https://www.ucl.ac.uk/module-catalogue/modules/electromagnetism-fluids-and-waves-NSCI0018)
+* [Webnotes](https://uclnatsci.github.io/Electromagnetism-Fluids-and-Waves/intro.html)
 
-- Bulleted
-- List
+NSCI0010: Scientific Computing
+* [Module description](https://www.ucl.ac.uk/module-catalogue/modules/science-and-society-1-communication-and-computing-NSCI0010)
+* [Webnotes](https://uclnatsci.github.io/Interdisciplinary-Research-Skills)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Year 2 modules
 
-[Link](url) and ![Image](src)
-```
+NSCI0007 Scientific Computing
+* [Module description](https://www.ucl.ac.uk/module-catalogue/modules/scientific-communication-and-computing-NSCI0007)
+* [Webnotes](https://uclnatsci.github.io/Scientific-Computing/intro.html)
+* [Tutorials](https://uclnatsci.github.io/Scientific-Computing-Tutorials)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
+### Year 3 modules
+NSCI0011 Topics in Scientific Computing
+* [Module description](https://www.ucl.ac.uk/module-catalogue/modules/topics-in-scientific-computing-NSCI0011)
+* [Webnotes](NOLINK)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UCLNatSci/home/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### Discontinued
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+These notes are under revision
+
+* [Mathematics for Natural Sciences](https://uclnatsci.github.io/Mathematics-for-Natural-Sciences.html)
+* [Mathematics for Natural Sciences 2](https://uclnatsci.github.io/Mathematics-for-Natural-Sciences-2.html)
+* [Finite Differences](https://uclnatsci.github.io/Finite-Differences.html)
+* [Neural Circuits](https://uclnatsci.github.io/Neural-Circuits.html)
+* [Density Functional Theory](https://uclnatsci.github.io/DFT/intro.html)
+
+
