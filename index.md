@@ -1,24 +1,24 @@
 ## Year 1 modules
 
 NSCI0005: Mathematics for Natural Sciences A
-* [module description](https://www.ucl.ac.uk/module-catalogue/modules/mathematics-for-natural-sciences-a-NSCI0005)
-* [webnotes](NOLINK) //*coming soon
+* [Module description](https://www.ucl.ac.uk/module-catalogue/modules/mathematics-for-natural-sciences-a-NSCI0005)
+* [Notes](NOLINK) //*coming soon
 
 NSCI0006: Mathematics for Natural Sciences B
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/mathematics-for-natural-sciences-b-NSCI0006)
-* [Webnotes](NOLINK) //*coming soon
+* [Notes](NOLINK) //*coming soon
 
 NSCI0027: Linear Algebra and Vector Calculus
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/linear-algebra-and-vector-calculus-NSCI0027)
-* [Webnotes](NOLINK) //*coming soon
+* [Notes](NOLINK) //*coming soon
 
 NSCI0018: Electromagnetism, Fluids and Waves
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/electromagnetism-fluids-and-waves-NSCI0018)
-* [Webnotes](https://uclnatsci.github.io/Electromagnetism-Fluids-and-Waves/intro.html)
+* [Notes](https://uclnatsci.github.io/Electromagnetism-Fluids-and-Waves/intro.html)
 
 NSCI0010: Scientific Computing
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/science-and-society-1-communication-and-computing-NSCI0010)
-* [Webnotes](https://uclnatsci.github.io/Interdisciplinary-Research-Skills)
+* [Notes](https://uclnatsci.github.io/Interdisciplinary-Research-Skills)
 
 ---
 
@@ -26,7 +26,7 @@ NSCI0010: Scientific Computing
 
 NSCI0007 Scientific Computing
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/scientific-communication-and-computing-NSCI0007)
-* [Webnotes](https://uclnatsci.github.io/Scientific-Computing/intro.html)
+* [Notes](https://uclnatsci.github.io/Scientific-Computing/intro.html)
 * [Tutorials](https://uclnatsci.github.io/Scientific-Computing-Tutorials.html)
 
 ---
@@ -34,7 +34,7 @@ NSCI0007 Scientific Computing
 ## Year 3 modules
 NSCI0011 Topics in Scientific Computing
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/topics-in-scientific-computing-NSCI0011)
-* [Webnotes](NOLINK) //*coming soon
+* [Notes](NOLINK) //*coming soon
 
 ---
 
