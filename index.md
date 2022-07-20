@@ -42,10 +42,10 @@ NSCI0011 Topics in Scientific Computing
 
 These notes are under revision
 
-* [Mathematics for Natural Sciences](https://uclnatsci.github.io/Mathematics-for-Natural-Sciences.html)
-* [Mathematics for Natural Sciences 2](https://uclnatsci.github.io/Mathematics-for-Natural-Sciences-2.html)
-* [Finite Differences](https://uclnatsci.github.io/Finite-Differences.html)
-* [Neural Circuits](https://uclnatsci.github.io/Neural-Circuits.html)
+* [Mathematics for Natural Sciences](https://uclnatsci.github.io/Mathematics-for-Natural-Sciences/intro.html)
+* [Mathematics for Natural Sciences 2](https://uclnatsci.github.io/Mathematics-for-Natural-Sciences-2/intro.html)
+* [Finite Differences](https://uclnatsci.github.io/Finite-Differences/intro.html)
+* [Neural Circuits](https://uclnatsci.github.io/Neural-Circuits/intro.html)
 * [Density Functional Theory](https://uclnatsci.github.io/DFT/intro.html)
 
 
