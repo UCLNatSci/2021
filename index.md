@@ -1,8 +1,4 @@
-## Natural Sciences course notes
-
----
-
-### Year 1 modules
+## Year 1 modules
 
 NSCI0005: Mathematics for Natural Sciences A
 * [module description](https://www.ucl.ac.uk/module-catalogue/modules/mathematics-for-natural-sciences-a-NSCI0005)
@@ -26,7 +22,7 @@ NSCI0010: Scientific Computing
 
 ---
 
-### Year 2 modules
+## Year 2 modules
 
 NSCI0007 Scientific Computing
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/scientific-communication-and-computing-NSCI0007)
@@ -35,14 +31,14 @@ NSCI0007 Scientific Computing
 
 ---
 
-### Year 3 modules
+## Year 3 modules
 NSCI0011 Topics in Scientific Computing
 * [Module description](https://www.ucl.ac.uk/module-catalogue/modules/topics-in-scientific-computing-NSCI0011)
 * [Webnotes](NOLINK)
 
 ---
 
-### Discontinued
+## Discontinued
 
 These notes are under revision
 
